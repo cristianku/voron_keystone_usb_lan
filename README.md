@@ -1,4 +1,4 @@
-# BTT_CANBUS
+# Voron Keystone Skirt corrected
 This is a modified version of the voron 2.4 rear skirt, for the keystone installation.
 
 ## Since the USB keystone inserts from amazon where not fitting, the hole in the original skirt is too big, i have modified until i was satisfied of the result ( can be easily inserted and removed , while keeping a good hold in place )
