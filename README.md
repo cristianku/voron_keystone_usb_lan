@@ -1,13 +1,13 @@
-# Voron Keystone Skirt corrected
-This is a modified version of the voron 2.4 rear skirt, for the keystone installation.
+# Modified Voron 2.4 Rear Skirt for Keystone Installation
 
-## Since the USB keystone inserts from amazon where not fitting, the hole in the original skirt is too big, i have modified until i was satisfied of the result ( can be easily inserted and removed , while keeping a good hold in place )
+This is an adapted version of the Voron 2.4 rear skirt, specifically modified for keystone installation.
 
-<img src="https://github.com/cristianku/voron_keystone_usb_lan/assets/25354817/4049c106-3a48-4665-a220-a07678707911" width="300">
+## Modification Details
+The original skirt's opening was too large for the USB keystone inserts I purchased from Amazon. To address this, I modified the opening until I achieved a satisfactory fit. The keystone can now be easily inserted and removed, while maintaining a secure hold.
 
-## This what i am using, but i guess they are all the same  https://www.amazon.de/dp/B07Z9446ZR?psc=1&ref=ppx_yo2ov_dt_b_product_details
+![Modified Voron 2.4 Rear Skirt](https://github.com/cristianku/voron_keystone_usb_lan/assets/25354817/4049c106-3a48-4665-a220-a07678707911)
 
+## Keystone Insert Used
+The specific keystone insert I am using can be found here: [Amazon Link](https://www.amazon.de/dp/B07Z9446ZR?psc=1&ref=ppx_yo2ov_dt_b_product_details). However, I believe the design should be compatible with similar inserts.
 
-
-<img src="https://github.com/cristianku/voron_keystone_usb_lan/assets/25354817/720df3b2-1121-40d0-b300-a00d2e77ad7d" width="600">
-
+![Keystone Insert](https://github.com/cristianku/voron_keystone_usb_lan/assets/25354817/720df3b2-1121-40d0-b300-a00d2e77ad7d)
